@@ -35,7 +35,7 @@ public class Program4 {
             // s4.1 : check if ith element is present in new array
             // compare ith element with elements in new array upto k
             int j = 0 ; 
-            for(  ; j < k ; j++ ){
+            for(   j < k ; j++ ){
                 if( array[i] == newArray[j]){
                         break ; 
                 }// end of if 
